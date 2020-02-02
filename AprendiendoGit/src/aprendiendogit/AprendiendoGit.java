@@ -15,7 +15,8 @@ public class AprendiendoGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-                System.out.println("Hola, aprendiendo git.........");
+        System.out.print("Cambio, hecho por Pepe........");
+        System.out.print("Hola soy Pepe");
     }
     
 }
